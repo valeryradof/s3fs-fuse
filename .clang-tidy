@@ -2,7 +2,7 @@ WarningsAsErrors: '*'
 Checks: '
     -*,
     bugprone-*,
-    -bugprone-assignment-in-if-condition,
+    -bugprone-assignment-in-if-conditiona,
     -bugprone-branch-clone,
     -bugprone-easily-swappable-parameters,
     -bugprone-implicit-widening-of-multiplication-result,
